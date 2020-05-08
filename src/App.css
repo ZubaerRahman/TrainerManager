@@ -1,3 +1,13 @@
+body{
+  background-color: #F8F8F8;
+  background-image: url('background.jpg');
+
+}
+
+.MuiLinearProgress-colorPrimary{
+  color:black;
+}
+
 .App {
   text-align: center;
 }

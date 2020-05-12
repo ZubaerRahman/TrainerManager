@@ -1,5 +1,8 @@
+2nd year university project for 'Software Engineering' module.
+
 Manage and organize trainers by assigning them to specific courses and bookings in a calendar.
-Built using React + Firebase, with Material UI library.
+Built using React + Redux + Firebase.
+Designed with Material UI library.
 Calendar built from scratch using MomentJs library.
 
 Hosted at https://segroup23.firebaseapp.com/

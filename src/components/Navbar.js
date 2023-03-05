@@ -104,6 +104,7 @@ const Navbar = (props) => {
                             <NavLink to="/" style={{textDecoration:'none', color:'white', fontWeight:'bold'}}>
                                 <img src='https://www.fdmgroup.com/wp-content/themes/fdm/images/fdm-logo-2018.png'
                                      style={{height:'24px', width:'46px', backgroundColor:'black'}}
+                                     alt="logo"
                                 />
                                 TRAIN
                             </NavLink>
